@@ -1,0 +1,23 @@
+{
+  "name": "functional_programmin_study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markkim340/Functional_Programmin_Study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markkim340/Functional_Programmin_Study/issues"
+  },
+  "homepage": "https://github.com/markkim340/Functional_Programmin_Study#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
