@@ -43,6 +43,7 @@ const pipe = (iter, ...functions) =>
 const arr = [1, 2, 3, 4, 5];
 
 /// 기존에 사용하던 방법
+
 let sum = arr //
   .filter((el) => el % 2 == 1)
   .map((el) => el * 2)
